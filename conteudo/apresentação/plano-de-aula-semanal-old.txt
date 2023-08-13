@@ -1,0 +1,15 @@
+Algoritmo e Linguagens (Algoritmo "Fluxograma", Instruções de um Algoritmo,
+Tipos de Linguagem: "Máquina, Simbólica e Abstrata", Programa: "Compilação,
+Interpretação e Execução");
+
+Diagrama de Bloco (Simbologia);
+
+Ambiente de Programação "VisualG" (Conceitos Básicos de uma Linguagem:
+"Variáveis, Tipos, Estruturas de Controle", Declaração de Tipo Simples,
+Comandos de Entrada e Saída, Comando de Atribuição, Operadores e
+Expressões);
+
+Estrutura de Decisão e Repetição (Comandos de Decisão e Comandos e Repetição);
+
+Tipos Estruturados (Listas, Filas, Array Unidimensional "vetor", Array
+Bidimensional "matriz", Arquivos); Procedimentos e Funções.  

@@ -1,0 +1,16 @@
+Algoritmo;
+
+Entrada e Saída de dados, Tipos de dados, Variável, Operadores Aritméticos,
+Precedência e Associatividade de Operadores, Operadores Relacionais e
+Operadores de Igualdade;
+
+Estruturas de Decisão, Operadores Lógicos;
+
+Operadores de Incremento e Decremento, Estruturas de Repetição;
+
+Arrays e Matrizes;
+
+Funções e Procedimentos;
+
+Módulos, Interação com o Usuário.
+
