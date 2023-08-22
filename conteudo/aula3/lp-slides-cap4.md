@@ -16,7 +16,7 @@ img[alt~="center"] {
 <!-- _paginate: false -->
 # **Lógica de Programação**
 
-## Capítulo 5 - Estruturas de Decisão
+## Capítulo 4 - Estruturas de Decisão
 
 ---
 

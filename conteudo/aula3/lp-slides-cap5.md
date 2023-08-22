@@ -16,7 +16,7 @@ img[alt~="center"] {
 <!-- _paginate: false -->
 # **Lógica de Programação**
 
-## Capítulo 6 - Operadores Lógicos
+## Capítulo 5 - Operadores Lógicos
 
 ---
 
