@@ -16,7 +16,7 @@ img[alt~="center"] {
 <!-- _paginate: false -->
 # **Lógica de Programação**
 
-## Capítulo 8 - Estruturas de Repetição
+## Capítulo 7 - Estruturas de Repetição
 
 ---
 

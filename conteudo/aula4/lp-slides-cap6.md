@@ -16,7 +16,7 @@ img[alt~="center"] {
 <!-- _paginate: false -->
 # **Lógica de Programação**
 
-## Capítulo 7 - Operadores de Incremento e Decremento
+## Capítulo 6 - Operadores de Incremento e Decremento
 
 ---
 
