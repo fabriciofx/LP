@@ -16,7 +16,7 @@ img[alt~="center"] {
 <!-- _paginate: false -->
 # **Lógica de Programação**
 
-## Capítulo 9 - Arrays
+## Capítulo 8 - Arrays e Matrizes
 
 ---
 
